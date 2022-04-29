@@ -1,0 +1,17 @@
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe.config
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.pdb
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.home.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Properties.Resources.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.exe
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.pdb
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Login.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.productadd.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.masalar.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.masa_bilgi.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.rezerve.resources
+C:\Users\Busteriis\Desktop\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.satışlar.resources
